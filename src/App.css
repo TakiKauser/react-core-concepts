@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.product {
+  color: aliceblue;
+  background-color: lightslategray;
+  margin: 30px;
+}
